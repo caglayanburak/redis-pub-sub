@@ -1,0 +1,5 @@
+PubToRedis/bin/*
+PubToRedis/obj/*
+SubRedis/bin/*
+SubRedis/obj/*
+
